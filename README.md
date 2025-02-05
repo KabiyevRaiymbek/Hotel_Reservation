@@ -44,3 +44,4 @@ Because the files weigh so much, I divided them.
 │ ├── 📄 package-lock.json
 
 │ ├── 📄 yarn.lock
+![image](https://github.com/user-attachments/assets/35205a9d-8fe9-4be1-bf63-a2427257b181)
