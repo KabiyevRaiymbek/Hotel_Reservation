@@ -3,6 +3,8 @@ Because the files weigh so much, I divided them.
 
 ├── 📂 admin
 
+├── 📂 1_admin(admin archives)
+
 │ ├── 📂 admin_1 - admin_12 (archives node_modules)
 
 │ ├── 📂 public
@@ -26,6 +28,8 @@ Because the files weigh so much, I divided them.
 │
 
 ├── 📂 client
+
+├── 📂 1_client(client archives)
 
 │ ├── 📂 node_modules.part01 - node_modules.part03 (archives node_modules)
 
